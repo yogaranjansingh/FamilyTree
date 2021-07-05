@@ -1,0 +1,39 @@
+ADD_CHILD Chit Anga Male
+ADD_CHILD Ish Anga Male
+ADD_CHILD Aras Anga Male
+ADD_CHILD Vich Anga Male
+ADD_CHILD Satya Anga Female
+
+SET_SPOUSE Amba Chit Female
+SET_SPOUSE Lika Vich Female
+SET_SPOUSE Chitra Aras Female
+SET_SPOUSE Vyan Satya Male
+
+ADD_CHILD Dritha Amba Female
+ADD_CHILD Tritha Amba Female
+ADD_CHILD Vritha Amba Male
+
+SET_SPOUSE Jaya Dritha Male
+
+ADD_CHILD Vila Lika Female
+ADD_CHILD Chika Lika Female
+
+ADD_CHILD Ahit Chitra Male
+ADD_CHILD Jnki Chitra Female
+SET_SPOUSE Arit Jnki Male
+
+ADD_CHILD Laki Jnki Male
+ADD_CHILD Lavnya Jnki Female
+
+ADD_CHILD Atya Satya Female
+ADD_CHILD Asva Satya Male
+ADD_CHILD Vyas Satya Male
+SET_SPOUSE Krpi Vyas Female
+SET_SPOUSE Satvy Asva Female
+
+ADD_CHILD Krithi Krpi Female
+ADD_CHILD Kriya Krpi Male
+
+ADD_CHILD Vasa Satvy Male
+
+ADD_CHILD Yodhan Dritha Male
